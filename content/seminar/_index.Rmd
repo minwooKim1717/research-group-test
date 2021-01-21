@@ -1,0 +1,16 @@
+---
+header:
+  caption: ""
+  image: ""
+title: Our Seminar Lists
+view: 2
+---
+
+### 1. Multisource data
+
+
+### 2. Covariance Estimation
+
+---
+- 우리가 진행했던 세미나 목록 맡아서 내용 정리
+- 각 세미나마다 발표자, 발표논문 적어두고 발표자료 드랍박스 링크 적어두면 되지 않을까 싶습니다!
